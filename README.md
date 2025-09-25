@@ -1,80 +1,69 @@
-# Portfólio - Kauã Martins
+# Portfólio de Suporte Técnico - Kauã Martins
 
-Este repositório contém o código-fonte do meu portfólio pessoal. O objetivo deste projeto é apresentar minhas habilidades, projetos e experiência como estudante de Ciência da Computação e profissional de tecnologia.
-
-O site foi desenvolvido para ser uma vitrine clara e objetiva do meu trabalho, destacando minha jornada no desenvolvimento web.
+Bem-vindo ao repositório do meu portfólio! Este projeto foi criado para apresentar minhas competências, experiências e conquistas na área de Suporte Técnico, destacando como minha formação em Ciência da Computação enriquece minha capacidade de resolver problemas.
 
 ---
 
-## 🚀 Estrutura e Seções Essenciais
+## 🚀 Estrutura do Portfólio
 
-O portfólio foi organizado de forma lógica para contar a minha história profissional. Abaixo estão as seções que compõem o site:
+O site está estruturado para demonstrar meu valor como profissional de TI, focando em soluções e resultados.
 
 ### a) Seção Inicial (Hero Section)
 
-A primeira impressão do visitante. É clara, concisa e vai direto ao ponto.
+Uma introdução direta sobre quem sou e o que faço.
 
 -   **Nome:** Kauã Martins
--   **Título:** Desenvolvedor Web | Estudante de Ciência da Computação
--   **Frase de Impacto:** "Transformando ideias em código e solucionando problemas complexos."
--   **Call-to-Action (CTA):** Botões visíveis como "Veja meus projetos" e "Entre em contato".
--   **Links Profissionais:** Acesso rápido ao meu LinkedIn e GitHub.
+-   **Título:** Suporte Técnico | Estudante de Ciência da Computação
+-   **Frase de Impacto:** "Apaixonado por resolver problemas tecnológicos e garantir a melhor experiência para o usuário."
+-   **Call-to-Action (CTA):** Botões para "Minhas Competências" e "Contato".
+-   **Links:** Acesso rápido ao meu LinkedIn.
 
 ### b) Sobre Mim (About Me)
 
-Uma seção para conectar minha formação acadêmica com a experiência profissional.
+Conectando minha experiência prática com minha base acadêmica sólida.
 
--   **Parágrafo 1:** Apresentação como estudante de Ciência da Computação apaixonado por desenvolvimento web, com menção às tecnologias de maior interesse (como JavaScript, React e Node.js).
--   **Parágrafo 2 (O Diferencial do Suporte Técnico):** Destaque para como a experiência em suporte técnico agregou habilidades valiosas para o desenvolvimento:
-    -   **Comunicação Clara:** Capacidade de explicar conceitos técnicos de forma simples.
-    -   **Resolução de Problemas (Troubleshooting):** Habilidade para diagnosticar e resolver problemas de forma eficiente.
-    -   **Empatia com o Usuário:** Foco em entender as dores e necessidades dos usuários finais.
-    -   **Paciência e Resiliência:** Lidar com situações de pressão para encontrar soluções.
--   **Foto Profissional:** Uma imagem amigável e profissional para criar uma conexão pessoal.
+-   **Meu Foco:** Apresento meu compromisso em garantir que a tecnologia funcione de forma fluida para as pessoas, atuando na linha de frente para solucionar problemas e otimizar sistemas.
+-   **O Diferencial da Ciência da Computação:** Explico como minha graduação me proporciona uma visão mais profunda sobre:
+    -   **Lógica de Programação:** Para entender a causa raiz de falhas de software e criar automações.
+    -   **Sistemas Operacionais e Redes:** Para diagnósticos precisos de infraestrutura e conectividade.
+    -   **Arquitetura de Computadores:** Para solucionar problemas de hardware com eficiência.
 
-### c) Habilidades (Skills)
+### c) Competências Técnicas (Skills)
 
-Lista das tecnologias que domino, organizadas por categoria para fácil visualização.
+Minhas principais habilidades técnicas, organizadas por área.
 
--   **Linguagens:** JavaScript (ES6+), HTML5, CSS3, Python, Java, etc.
--   **Frameworks & Bibliotecas:** React, Vue.js, Node.js, Express, etc.
--   **Ferramentas & Plataformas:** Git, GitHub, Docker, Figma, Jira, etc.
--   **Bancos de Dados:** MongoDB, PostgreSQL, MySQL.
+-   **Sistemas Operacionais:** Windows (10, 11, Server), Linux (Ubuntu), macOS.
+-   **Redes e Infraestrutura:** Diagnóstico TCP/IP, DNS, DHCP, Configuração de Roteadores.
+-   **Hardware:** Montagem, Manutenção e Diagnóstico de Desktops/Notebooks.
+-   **Ferramentas de Suporte:** Sistemas de Ticketing (Jira, Zendesk), Acesso Remoto (TeamViewer), Active Directory.
+-   **Plataformas:** Microsoft 365, Google Workspace.
+-   **Scripting e Automação:** PowerShell, Bash Script, Python.
 
-### d) Projetos (Projects)
+### d) Conquistas e Projetos Relevantes
 
-A seção mais importante do portfólio, onde demonstro minhas habilidades na prática. A qualidade prevalece sobre a quantidade.
+Exemplos práticos de como agreguei valor, descritos no formato **Situação > Ação > Resultado**.
 
-Para cada projeto, são incluídos:
--   **Nome do Projeto:** Um título claro e descritivo.
--   **Imagem ou GIF:** Uma captura de tela de alta qualidade ou um GIF mostrando o projeto em ação.
--   **Descrição Curta:** Um resumo sobre o objetivo do projeto, o problema que ele resolve e meu papel no desenvolvimento.
--   **Tecnologias Utilizadas:** Uma lista das principais ferramentas e tecnologias aplicadas.
--   **Links Essenciais:**
-    -   **Ver ao Vivo (Live Demo):** Link para o projeto em produção (hospedado em Vercel, Netlify, etc.).
-    -   **Código-Fonte (Source Code):** Link para o repositório no GitHub.
+-   **Automação de Onboarding:**
+    -   **Ação:** Desenvolvi um script em PowerShell para automatizar a criação de contas e permissões para novos funcionários.
+    -   **Resultado:** Reduzi o tempo do processo de 45 para 5 minutos e eliminei 100% dos erros manuais.
 
-### e) Experiência Profissional (Professional Experience)
+-   **Criação de Base de Conhecimento:**
+    -   **Ação:** Documentei os 10 problemas mais recorrentes e criei tutoriais passo a passo para os usuários.
+    -   **Resultado:** Diminuição de 40% no volume de chamados sobre esses tópicos.
 
-Detalhes sobre minha experiência como Suporte Técnico, com foco em resultados e habilidades transferíveis para a área de desenvolvimento.
+-   **Resolução de Problema Crítico de Rede:**
+    -   **Ação:** Utilizei ferramentas de análise de tráfego para diagnosticar e isolar um dispositivo que causava lentidão na rede.
+    -   **Resultado:** Performance da rede normalizada, com aumento de 80% na velocidade percebida pelos usuários.
+
+### e) Experiência Profissional
 
 -   **Cargo:** Técnico de Suporte
--   **Empresa e Período:** [Nome da Empresa] | [Mês/Ano de Início] - [Presente]
--   **Descrição com foco em resultados:**
-    > Responsável pelo diagnóstico e resolução de problemas técnicos para mais de 200 usuários, resultando em um aumento de 15% na satisfação do cliente.
-
-    > Desenvolvi scripts para automatizar tarefas de rotina, reduzindo o tempo de resolução de chamados em 20%.
-
-    > Colaborei com a equipe de desenvolvimento para identificar e reportar bugs, contribuindo para a melhoria contínua do produto.
-
-### f) Contato (Contact)
-
-Informações para facilitar o contato profissional.
-
--   **Email Profissional:** Um endereço de e-mail de fácil acesso.
--   **LinkedIn:** Link direto para o meu perfil.
--   **Formulário de Contato:** Um formulário simples e funcional para o envio de mensagens diretas.
+-   **Empresa:** [Nome da Empresa] | [Mês/Ano de Início] - [Presente]
+-   **Principais Responsabilidades:**
+    -   Atendimento e resolução de chamados Nível 1 e 2 com índice de satisfação de 95%.
+    -   Gestão de inventário de hardware e software.
+    -   Treinamento de usuários em ferramentas e políticas de segurança.
 
 ---
 
-Obrigado por visitar meu repositório! Sinta-se à vontade para explorar meus projetos e entrar em contato.
+Obrigado pela visita! Sinta-se à vontade para entrar em contato.
