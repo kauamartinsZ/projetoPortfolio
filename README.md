@@ -58,9 +58,9 @@ Exemplos práticos de como agreguei valor, descritos no formato **Situação > A
 ### e) Experiência Profissional
 
 -   **Cargo:** Técnico de Suporte
--   **Empresa:** [Nome da Empresa] | [Mês/Ano de Início] - [Presente]
+-   **Empresa:** Metrus | 07/2024 - [Presente]
 -   **Principais Responsabilidades:**
-    -   Atendimento e resolução de chamados Nível 1 e 2 com índice de satisfação de 95%.
+    -   Atendimento e resolução de chamados Nível 1 com índice de satisfação de 95%.
     -   Gestão de inventário de hardware e software.
     -   Treinamento de usuários em ferramentas e políticas de segurança.
 
