@@ -7,11 +7,6 @@ Bem-vindo ao repositório do meu portfólio profissional! Este projeto foi desen
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 🎨 Preview
-
-![Screenshot do Portfólio](./img/preview.png)
-*(Se você ainda não tem uma imagem de preview, pode remover esta linha ou adicionar um print depois)*
-
 ## 🚀 Funcionalidades
 
 Este projeto não é apenas um layout estático; ele conta com diversas interatividades implementadas "na unha" (sem frameworks pesados):
